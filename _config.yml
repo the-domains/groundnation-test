@@ -1,0 +1,14 @@
+layout_spectrum: 0.418031555833295
+typography_spectrum: 0.19282983615994453
+color:
+  brandStrength: 0.7554803532548249
+  lightness: 0.3196737258695066
+  saturation: 0.8873578163329512
+  rhythmicContrast: 0.9067571153864264
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: Groundnation test
